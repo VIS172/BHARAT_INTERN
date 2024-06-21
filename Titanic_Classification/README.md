@@ -67,22 +67,6 @@ The classifier is designed to predict the likelihood of survival for passengers 
 
 The `titanic_classifier.py` script includes code for training multiple classifiers and evaluating their performance. The results are printed out with various evaluation metrics.
 
-### Serialize Models
 
-Models and vectorizers are serialized using `pickle` for later use:
-```python
-import pickle
-
-# Save the model
-with open('model.pkl', 'wb') as file:
-    pickle.dump(model, file)
-
-# Load the model
-with open('model.pkl', 'rb') as file:
-    model = pickle.load(file)
-
-# Run the Script
-To run the analysis and build the model, execute the following command:
-python titanic_classifier.py
 
 
