@@ -3,7 +3,7 @@
 
 # SMS Classifier Project
 
-This repository contains the code for an SMS classifier implemented in Python using various machine learning models. The classifier is designed to distinguish between spam and ham (non-spam) messages.
+The SMS classifier implemented in Python using machine learning models is designed to distinguish between spam and ham (non-spam) messages.
 
 ## Features
 
