@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Titanic Classification Project
 
 The classifier is designed to predict the likelihood of survival for passengers on the Titanic based on their attributes.
