@@ -2,7 +2,7 @@ markdown
 Copy code
 # Titanic Classification Project
 
-This repository contains the code for a Titanic Classification project implemented in Python using various machine learning models. The classifier is designed to predict the likelihood of survival for passengers on the Titanic based on their attributes.
+The classifier is designed to predict the likelihood of survival for passengers on the Titanic based on their attributes.
 
 ## Features
 
