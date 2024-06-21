@@ -1,3 +1,6 @@
+![68747470733a2f2f696d61676573382e616c706861636f646572732e636f6d2f3430352f3430353032392e6a7067](https://github.com/VIS172/BHARAT_INTERN/assets/109724129/a6f4f02b-3c7d-4cd0-bc31-dc323b9f4f28)
+
+
 # Titanic Classification Project
 
 The classifier is designed to predict the likelihood of survival for passengers on the Titanic based on their attributes.
@@ -68,7 +71,6 @@ The classifier is designed to predict the likelihood of survival for passengers 
 The `titanic_classifier.py` script includes code for training multiple classifiers and evaluating their performance. The results are printed out with various evaluation metrics.
 
 
-![68747470733a2f2f696d61676573382e616c706861636f646572732e636f6d2f3430352f3430353032392e6a7067](https://github.com/VIS172/BHARAT_INTERN/assets/109724129/a6f4f02b-3c7d-4cd0-bc31-dc323b9f4f28)
 
 
 
