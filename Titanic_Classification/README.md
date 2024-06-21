@@ -68,5 +68,8 @@ The classifier is designed to predict the likelihood of survival for passengers 
 The `titanic_classifier.py` script includes code for training multiple classifiers and evaluating their performance. The results are printed out with various evaluation metrics.
 
 
+![Uploading 68747470733a2f2f696d61676573382e616c706861636f646572732e636f6d2f3430352f3430353032392e6a7067.jpeg…]()
+
+
 
 
