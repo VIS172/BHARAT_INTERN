@@ -87,8 +87,4 @@ with open('model.pkl', 'rb') as file:
 To run the analysis and build the model, execute the following command:
 python titanic_classifier.py
 
-#Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
-#License
-This project is licensed under the MIT License. See the LICENSE file for more details.
