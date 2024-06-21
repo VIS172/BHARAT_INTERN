@@ -1,3 +1,6 @@
+![1_-IwVhfTvy_PKe_cmpmBTKg](https://github.com/VIS172/BHARAT_INTERN/assets/109724129/d4e31a25-8dd8-4228-945c-0968a3bc3078)
+
+
 # SMS Classifier Project
 
 This repository contains the code for an SMS classifier implemented in Python using various machine learning models. The classifier is designed to distinguish between spam and ham (non-spam) messages.
